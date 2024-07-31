@@ -1,0 +1,22 @@
+{
+  "name": "main-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spexf/projek-gabut.git"
+  },
+  "author": "eriq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spexf/projek-gabut/issues"
+  },
+  "homepage": "https://github.com/spexf/projek-gabut#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
